@@ -12,8 +12,12 @@
 - sigmoid_kernel used for word traformations sig=sigmoid_kernel(vec_matrix,vec_matrix)
 
 - For system recommendation function created: 
+
 ![](https://github.com/tural327/Recommendation-systems-/blob/main/Netflix%20recommendation%20systems/Recom.png)
 
+
+
 - Result for system:
+
 
 ![](https://github.com/tural327/Recommendation-systems-/blob/main/Netflix%20recommendation%20systems/rs1.png)
